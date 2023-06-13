@@ -14,7 +14,7 @@ Created on October 2022, I started to work on a full-stack application designed 
 
 # 🛠️ Features
 
-- Waste System: Used to Track and calculate all waste[^1] within the store
+- Waste System: Used to Track and calculate all waste[^5] within the store
 - Training System: A in-depth Training System that uses pathway to help efficently train new Team Members while being taught during store operations.
 - Employee Directory:
 - Line-Up Creator:
