@@ -31,17 +31,17 @@ The "Grandover Project" starts all at the login page. Strictly being only access
 
 ## Password Management:
 
-The process of adding and creating user accounts is exclusively performed by the operator account, maintaining strict control over the creation of new user credentials. Once an account is created, the username and password are predetermined by the operator, ensuring a standardized and secure approach to account creation.
+The process of adding and creating user accounts is exclusively performed by the operator[^4] account, maintaining strict control over the creation of new user credentials. Once an account is created, the username and password are predetermined by the operator, ensuring a standardized and secure approach to account creation.
 
 ## User Roles and Access Permissions:
 
 The "Grandover Project" employs a robust user role management system, allowing administrators to assign specific roles and access permissions to different users. This ensures that individuals only have access to the features and data that are relevant to their responsibilities, reducing the risk of unauthorized access or accidental data exposure.
 
-# Credits
+# Notice
 
-- [RobbiDev](https://github.com/pengyofficial) - Lead Programmer
-- [Unnecessary Libraries](https://github.com/unnecessarylibraries) - Organizer
-- [Imagine Dragons](https://www.imaginedragonsmusic.com/#/) - The Creator of it all
+This project is still being used and is in the production phase and The date for release is still to be determined. As of right now. This repo will be used to show off and showcase my work done with [Chick-Fil-A Properties, Inc.](https://www.chick-fil-a.com/).
+
+Chick-Fil-A does have the right to deny anytype of releasement of this application.
 
 - [^1]: **BOH:** Back of House
 - [^2]: **FOH:** Front of House
