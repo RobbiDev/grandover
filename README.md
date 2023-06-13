@@ -5,13 +5,12 @@
 </p>
 <p align="center">An Application used at Chick-Fil-A, Grandover VIllage to help improve efficiency, simplify processes, and provide seamless support for the day-to-day activities at the restaurant..</p>
 </p>
-<p align="center">
-  <span style="color: red;">NOTE:</span> This project will be open-sourced in the feature since as of right now. This application is being used and holds sensu
-</p>
 
 # 👋 About
 
 Created on October 2022, I started to work on a full-stack application designed specifically to enhance the operations of Chick-Fil-A at Grandover Village. The primary objective of this project is to improve efficiency, simplify processes, and provide seamless support for the day-to-day activities at the restaurant. By harnessing the power of modern technology, The "Grandover Project" aims to revolutionize the way Chick-Fil-A operates, making it a smoother and more streamlined experience for both staff and customers alike
+
+**NOTE:** This project will be open-sourced in the future, but as of right now. This repo will be used to show off and showcase my work done with Chick-Fil-A Properties, Inc.
 
 # 🛠️ Features
 
