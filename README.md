@@ -3,7 +3,7 @@
     <img src="./assets/Header.jpg" alt="logo" width="100%" height="auto" />
   </a>
 </p>
-<p align="center">An Application used at Chick-Fil-A, Grandover VIllage to help speed up and simplify our day to day operations.</p>
+<p align="center">An Application used at Chick-Fil-A, Grandover VIllage to help improve efficiency, simplify processes, and provide seamless support for the day-to-day activities at the restaurant..</p>
 </p>
 <p align="center">
   <span style="color: red;">NOTE:</span> This project will be open-sourced in the feature since as of right now. This application is being used and holds sensu
