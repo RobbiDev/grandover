@@ -47,4 +47,4 @@ Chick-Fil-A does have the right to deny anytype of releasement of this applicati
 - [^2]: **FOH:** Front of House
 - [^3]: **Core:** Core leadership aka the main leads that oversee the store
 - [^4]: **Operator:** Owner of the Store
-- [^5]: **Waste:** A word used to describe anytype of packaging, food, or other tracked expenses that were meant to be sold but didn't.
+- [^5]: **Waste:** A word used to describe any type of packaging, food, or other tracked expenses that were meant to be sold but weren't
