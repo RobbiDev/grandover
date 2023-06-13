@@ -10,12 +10,12 @@
 
 Created on October 2022, I started to work on a full-stack application designed specifically to enhance the operations of Chick-Fil-A at Grandover Village. The primary objective of this project is to improve efficiency, simplify processes, and provide seamless support for the day-to-day activities at the restaurant. By harnessing the power of modern technology, The "Grandover Project" aims to revolutionize the way Chick-Fil-A operates, making it a smoother and more streamlined experience for both staff and customers alike
 
-**NOTE:** This project will be open-sourced in the future, but as of right now. This repo will be used to show off and showcase my work done with Chick-Fil-A Properties, Inc.
+**NOTE:** This project will be open-sourced in the future, but as of right now. This repo will be used to show off and showcase my work done with [Chick-Fil-A Properties, Inc.](https://www.chick-fil-a.com/)
 
 # 🛠️ Features
 
 - Waste System: Used to Track and calculate all waste[^1] within the store
-- Training System:
+- Training System: A in-depth Training System that uses pathway to help efficently train new Team Members while being taught during store operations.
 - Employee Directory:
 - Line-Up Creator:
 
@@ -43,10 +43,8 @@ The "Grandover Project" employs a robust user role management system, allowing a
 - [Unnecessary Libraries](https://github.com/unnecessarylibraries) - Organizer
 - [Imagine Dragons](https://www.imaginedragonsmusic.com/#/) - The Creator of it all
 
-# Terminology
-
-- **BOH:** Back of House
-- **FOH:** Front of House
-- **Core:** Core leadership aka the main leads that oversee the store
-- **Operator:** Owner of the Store
-- [^1]: **Waste:** A word used to describe anytype of packaging, food, or other tracked expenses that were meant to be sold but didn't.
+- [^1]: **BOH:** Back of House
+- [^2]: **FOH:** Front of House
+- [^3]: **Core:** Core leadership aka the main leads that oversee the store
+- [^4]: **Operator:** Owner of the Store
+- [^5]: **Waste:** A word used to describe anytype of packaging, food, or other tracked expenses that were meant to be sold but didn't.
