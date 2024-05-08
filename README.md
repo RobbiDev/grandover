@@ -8,20 +8,50 @@
 
 # 👋 About
 
-Created on October 2022, I started to work on a full-stack application designed specifically to enhance the operations of Chick-Fil-A at Grandover Village. The primary objective of this project is to improve efficiency, simplify processes, and provide seamless support for the day-to-day activities at the restaurant. By harnessing the power of modern technology, The "Grandover Project" aims to revolutionize the way Chick-Fil-A operates, making it a smoother and more streamlined experience for both staff and customers alike
+Initiated in October 2022, I began developing a full-stack application tailored to optimize the operations of Chick-Fil-A at Grandover Village. The main goal of this project is to enhance operational efficiency and simplify procedural complexities, thereby supporting the restaurant’s daily functions more effectively. By leveraging advanced technology, the "Grandover Project" seeks to transform Chick-Fil-A’s operational dynamics, ensuring a more efficient and smoother experience for both employees and patrons.
+
+This Project was inspired from my smaller [project](https://github.com/RobbiDev/boil-out).
 
 **NOTE:** This project will be open-sourced in the future, but as of right now. This repo will be used to show off and showcase my work done with [Chick-Fil-A Properties, Inc.](https://www.chick-fil-a.com/)
 
 # 🛠️ Features
 
-- Waste System: Used to Track and calculate all waste[^5] within the store
+- Waste System: Used to Track and calculate all waste within the store
 - Training System: A in-depth Training System that uses pathway to help efficently train new Team Members while being taught during store operations.
-- Employee Directory:
-- Line-Up Creator:
+- Employee Directory: Simple Database Directory for all employyes.
+- Kitchen Watch: An advanced version of my earlier project, Boil-Out, this timer-based tracker monitors maintenance tasks for items like fryers and floor drains on a daily or monthly basis, ensuring timely upkeep.
+
+# 🏗️ Application Structure
+
+This application boasts a deep yet intuitive design. To fully grasp how it functions, it’s important to first understand its underlying structure.
+
+### Website Structure
+
+```
+Grandover Application
+  ├── Waste System
+  ├── Training System
+  ├── Employee Directory
+  └── Kitchen Watch
+```
+
+## Role-Based Access Structure
+
+```
+Owner (Ex: Operator/Corperate)
+└── Admin Account (Ex: HR)
+    ├── Trainer Account (Ex: Certified Trainer)
+    │   └── Ipad Account (Ex: Strictly for Inputing Data)
+    └── Manager Account (Ex: GM or Anyone else of Importance)
+```
+
+iPad accounts are strictly used for data entry. For instance, in the kitchen, you might find an iPad mounted in a convenient location for logging daily waste. These accounts have limited access and can only view specific information.
+
+Trainer accounts are specifically designed to access the included training system and are limited to viewing only the trainees' information and the training materials. For example, a trainer might carry an iPad in a sling around their shoulder, dedicated solely to this function.
 
 # 🔒 Security & Login
 
-The "Grandover Project" starts all at the login page. Strictly being only access by leaders of the store. No others have access which protect company and employee infomation. The Application places a strong emphasis on security and login protocols to ensure the protection of sensitive data and maintain a trusted environment.
+This application begins at the login page, which is strictly accessible only to users with Owner, Admin, or Manager accounts. No other roles have access, ensuring the protection of both company and employee information. The application places a strong emphasis on security and adherence to login protocols to safeguard sensitive data and maintain a secure and trusted environment.
 
 <p align="center">
   <a>
@@ -29,22 +59,22 @@ The "Grandover Project" starts all at the login page. Strictly being only access
   </a>
 </p>
 
-## Password Management:
-
-The process of adding and creating user accounts is exclusively performed by the operator[^4] account, maintaining strict control over the creation of new user credentials. Once an account is created, the username and password are predetermined by the operator, ensuring a standardized and secure approach to account creation.
-
 ## User Roles and Access Permissions:
 
-The "Grandover Project" employs a robust user role management system, allowing administrators to assign specific roles and access permissions to different users. This ensures that individuals only have access to the features and data that are relevant to their responsibilities, reducing the risk of unauthorized access or accidental data exposure.
+The task of adding and creating user accounts is exclusively handled by the owner account, ensuring tight control over the issuance of new user credentials. The operator predetermines the username and password when creating an account, adopting a standardized and secure method for account setup. Once a user is added, the operator is required to assign at least one of the specified roles, maintaining consistency and security across the application.
+
+# 🤿 Diving Deeper
+This is a general overview of the Grandover Application. For a more detailed exploration of each feature, please visit the respective feature's page.
+
+- [Waste System](https://github.com/RobbiDev/grandover/pages/waste).
+- [Training System](https://github.com/RobbiDev/grandover/pages/training)
+- [Employee Directory](https://github.com/RobbiDev/grandover/pages/Directory)
+- [Kitchen Watch](https://github.com/RobbiDev/grandover/pages/kitchenwatch)
+
+**If your feeling nerdy, Explore [How it was made](https://github.com/RobbiDev/grandover/pages/howitwasmade) for a breakdown on this applications development**
 
 # Notice
 
-This project is still being used and is in the production phase and The date for release is still to be determined. As of right now. This repo will be used to show off and showcase my work done with [Chick-Fil-A Properties, Inc.](https://www.chick-fil-a.com/).
+This project is currently in the production phase, and the release date has yet to be determined. Presently, this repository serves to showcase my work with [Chick-Fil-A Properties, Inc.](https://www.chick-fil-a.com/).
 
-Chick-Fil-A does have the right to deny anytype of releasement of this application.
-
-- [^1]: **BOH:** Back of House
-- [^2]: **FOH:** Front of House
-- [^3]: **Core:** Core leadership aka the main leads that oversee the store
-- [^4]: **Operator:** Owner of the Store
-- [^5]: **Waste:** A word used to describe any type of packaging, food, or other tracked expenses that were meant to be sold but weren't
+Please note, all icons used within the application are the property of CFA Pathway, and the Chick-Fil-A logo is also not owned by me. Chick-Fil-A reserves the right to deny any release of this application.
