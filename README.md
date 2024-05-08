@@ -66,12 +66,12 @@ The task of adding and creating user accounts is exclusively handled by the owne
 # 🤿 Diving Deeper
 This is a general overview of the Grandover Application. For a more detailed exploration of each feature, please visit the respective feature's page.
 
-- [Waste System](https://github.com/RobbiDev/grandover/pages/waste).
-- [Training System](https://github.com/RobbiDev/grandover/pages/training)
-- [Employee Directory](https://github.com/RobbiDev/grandover/pages/Directory)
-- [Kitchen Watch](https://github.com/RobbiDev/grandover/pages/kitchenwatch)
+- [Waste System](https://github.com/RobbiDev/grandover/blob/main/pages/waste.md).
+- [Training System](https://github.com/RobbiDev/grandover/blob/main/pages/training.md)
+- [Employee Directory](https://github.com/RobbiDev/grandover/blob/main/pages/directory.md)
+- [Kitchen Watch](https://github.com/RobbiDev/grandover/blob/main/pages/kitchenwatch.md)
 
-**If your feeling nerdy, Explore [How it was made](https://github.com/RobbiDev/grandover/pages/howitwasmade) for a breakdown on this applications development**
+**If your feeling nerdy, Explore [How it was made](https://github.com/RobbiDev/grandover/blob/main/pages/howitwasmade.md) for a breakdown on this applications development**
 
 # Notice
 
